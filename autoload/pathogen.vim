@@ -1,0 +1,1 @@
+/Users/jeremybush/code/vim-pathogen/autoload/pathogen.vim
